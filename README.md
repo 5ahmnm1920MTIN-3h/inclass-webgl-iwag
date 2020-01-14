@@ -1,28 +1,24 @@
-# Template Repository for Unity3D version 2019.1.14f1
-
 ### Project description: 
-Introduction/Project summary 
+My first WEbGL Project in a long time; the purpose is solely to get back on track on how to build and publish.
 
 ### Development platform: 
-Windows10, 
+Windows10 64bit,
+VS Community V. 16.4.0,
+Unity 2019.1.14f1
 
 ### Target platform: 
 WebGL. 960x200
 
-### Visuals: 
-Screenshots (concept and experience), Video
-
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* have webGL installed
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+None
 
 ### Lessons Learned: 
-
-Copyright by you :)
+* build webGL
+* convert github to website
+(c) ida
