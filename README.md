@@ -1,5 +1,7 @@
 ### Project description: 
-My first WEbGL Project in a long time; the purpose is solely to get back on track on how to build and publish.
+My first WebGL Project in a long time; the purpose is solely to get back on track on how to build and publish for this platform.
+
+[Pree da ting](https://5ahmnm1920mtin-3h.github.io/inclass-webgl-iwag/)
 
 ### Development platform: 
 Windows10 64bit,
@@ -21,4 +23,6 @@ None
 ### Lessons Learned: 
 * build webGL
 * convert github to website
+
+
 (c) ida
